@@ -31,11 +31,27 @@ i {
 input {
   outline: none;
   border: none;
+  width: 100%;
 }
 h1 {
   padding-bottom: 2rem;
 }
-a {
+ .tc{
   color: #9633ff;
   text-decoration: none;
+}
+.btn{
+    background-color: #9633ff;
+    color: #fff;
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    
+}
+.space{
+margin-top: 1.5rem;
+margin-bottom: 1.5rem;
+}
+a{
+    text-decoration: none;
+    color: #000;
 }
